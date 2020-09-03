@@ -1,6 +1,4 @@
-# MLSA
-
-Simulation Study for Machine Learning Methods in Survival Analysis.
+# Simulation Study for Machine Learning Methods in Survival Analysis
 
 Simulate survival times under a Weibull proportional hazards model with either linear or linear and non-linear effects of the covariates on the hazard and varying levels of censoring.
 
