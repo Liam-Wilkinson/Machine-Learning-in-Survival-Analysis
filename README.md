@@ -1,6 +1,6 @@
 # Simulation Study for Machine Learning Methods in Survival Analysis
 
-Simulate survival times under a Weibull proportional hazards model with either linear or linear and non-linear effects of the covariates on the hazard and varying levels of censoring.
+Simulate survival times either under a Weibull distribution or with a complex baseline hazard (turning point) with either linear or linear and non-linear effects of the covariates on the hazard and varying levels of censoring.
 
 Splits simulated datasets into training and test datasets.
 
