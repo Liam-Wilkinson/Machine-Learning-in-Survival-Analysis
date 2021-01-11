@@ -4,7 +4,7 @@ Simulate survival times either under a Weibull distribution or with a complex ba
 
 Splits simulated datasets into training and test datasets.
 
-Fits a random forest; support vector machine; Cox model with elastic-net penalty and and penalized splines (flexible parametric) model to the training datasets.
+Fits a random forest; support vector machine; Cox model with elastic-net penalty and penalized splines (flexible parametric) model to the training datasets.
 
 Records how long the various methods take to fit.
 
